@@ -1,8 +1,9 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Sofía Zorrilla"
+author = "Sofía Zorrilla"
+publishDir = "docs"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
